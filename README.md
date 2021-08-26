@@ -1,5 +1,4 @@
 # MNIST hand sign classifier
-## _Stable version_
 
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master) 
 
